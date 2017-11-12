@@ -11,13 +11,13 @@ Grade all students' answers to get the master's degree.
 
 ### Notices
 
-* No Notice
+* No Notices
 
 ### Hints
 
 #### 1st Hint
 
-* Life Is Short, You Need Automation.
+Life Is Short, You Need Automation.
 
 ## Author's Comment
 
