@@ -14,7 +14,9 @@ This is not a hard one. But I think you need reverse-engineering skill.
 
 ### Hints
 
-1. If you find proper key of given seed, you will reach vulnerable code. Seed is generated randomly.
+#### 1st Hint
+
+* If you find proper key of given seed, you will reach vulnerable code. Seed is generated randomly.
 
 ### Files
 * [easy_bof](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_bof/easy_bof)
