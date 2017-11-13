@@ -18,8 +18,8 @@ by SiHoon Lee
 
 ### Files
 
-* [easy_echo](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_echo/easy_echo)
-* [easy_echo.c](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_echo/easy_echo.c)
+* [easy_readfile](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_echo/easy_echo)
+* [easy_readfile.c](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_echo/easy_echo.c)
 
 ## Author's Comment
 
