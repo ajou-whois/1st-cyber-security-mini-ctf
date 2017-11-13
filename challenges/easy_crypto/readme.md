@@ -23,8 +23,8 @@ by JuSung Ko
 
 ### Files
 
-* [c](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_crypto/c)
-* [Ciphers.txt](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_crypto/Ciphers.txt)
+* [source.c](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_crypto/c)
+* [ciphers.txt](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_crypto/Ciphers.txt)
 
 ## Author's Comment
 
