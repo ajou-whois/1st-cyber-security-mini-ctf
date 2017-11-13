@@ -14,7 +14,7 @@
 
 ### Top10 Graph
 
-
+![Top10 Graph](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/etc/ranking/top10.png)
 
 ## Challenges
 
