@@ -4,6 +4,8 @@
 
 ## Poster
 
+![Poster](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/etc/poster/poster-1240-1754.png)
+
 ## Results
 
 ### Winner
