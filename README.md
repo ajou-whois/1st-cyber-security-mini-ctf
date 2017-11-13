@@ -20,13 +20,42 @@
 
 ## Challenges
 
-* [easy_bof](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_bof)
-* [easy_crypto](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_crypto)
-* [easy_echo](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_echo)
-* [easy_flask](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_flask)
-* [easy_readfile](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_readfile)
-* [easy_steganography](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_steganography)
-* [echo](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/echo)
-* [gui_montag](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/gui_montag)
-* [minishell](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/minishell)
-* [slave](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/slave)
+### [easy_bof](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_bof)
+
+0/13 Solved(0%)
+
+### [easy_crypto](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_crypto)
+
+0/13 Solved(0%)
+
+### [easy_echo](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_echo)
+
+2/13 Solved(17%)
+
+### [easy_flask](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_flask)
+
+0/13 Solved(0%)
+
+### [easy_readfile](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_readfile)
+
+2/13 Solved(17%)
+
+### [easy_steganography](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/easy_steganography)
+
+5/13 Solved(42%)
+
+### [echo](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/echo)
+
+0/13 Solved(0%)
+
+### [gui_montag](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/gui_montag)
+
+0/13 Solved(0%)
+
+### [minishell](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/minishell)
+
+2/13 Solved(17%)
+
+### [slave](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/tree/master/challenges/slave)
+
+0/13 Solved(0%)
