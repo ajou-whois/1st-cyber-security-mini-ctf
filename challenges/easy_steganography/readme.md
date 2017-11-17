@@ -18,7 +18,7 @@ by JuSung Ko
 
 ### Files
 
-* [microsoft word.docx](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_steganography/microsoft_word.docx)
+* [microsoft_word.docx](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/challenges/easy_steganography/microsoft_word.docx)
 
 ## Author's Comment
 
