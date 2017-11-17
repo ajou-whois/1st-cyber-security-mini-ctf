@@ -2,6 +2,22 @@
 
 ## About
 
+## Team
+
+### JuSung Ko
+
+### HyungChan Kim
+
+### GwangSeok Han
+
+### HyeokJu Gwon
+
+### JunGu Kang
+
+### SiHoon Lee
+
+### JaeHyuk Lim
+
 ## Poster
 
 ![Poster](https://github.com/ajou-whois/1st-cyber-security-mini-ctf/blob/master/etc/poster/poster-1240-1754.png)
